@@ -59,6 +59,7 @@
 
 .bicicletas p {
   margin-bottom: 32px;
+  max-width: 50ch;
 }
 
 .bicicletas-conteudo a {
