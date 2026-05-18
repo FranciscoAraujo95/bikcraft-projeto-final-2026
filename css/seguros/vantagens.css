@@ -1,6 +1,6 @@
 .vantagens-bg {
   background: var(--cor-12);
-  padding: 60px 0px;
+  padding: 120px 0px;
 }
 
 .vantagens {
@@ -24,6 +24,9 @@
 }
 
 @media (max-width: 800px) {
+  .vantagens-bg {
+    padding: 60px 20px;
+  }
   .vantagens {
     gap: 40px;
   }
